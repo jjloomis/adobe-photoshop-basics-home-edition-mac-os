@@ -4,6 +4,10 @@
 
 * [Introduction](README.md)
 
+## Installing Photoshop on your Mac
+
+* [Checking if your computer meets minimum system requirements](installing-photoshop-on-your-mac/checking-if-your-computer-meets-minimum-system-requirements.md)
+
 ## Resizing, rotating, and cropping
 
 * [Connecting to your class folder](connecting-to-your-class-folder.md)
