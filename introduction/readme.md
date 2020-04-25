@@ -8,7 +8,7 @@ Adobe Photoshop 2017 Basics for [Journalism, Advertising, and Media Studies](htt
 
 ## Credits
 
-Written by JAMS Digital Media Specialist Jeffrey John Loomis
+Written by Jeffrey John Loomis
 
 ## Other formats
 

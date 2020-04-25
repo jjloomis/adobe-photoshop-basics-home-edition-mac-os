@@ -9,7 +9,5 @@
 7. An **Installing** progress wheel will appear in the **Apps** interface. Installation times will vary based on network speed.
 8. When installation is complete, **Photoshop** will appear in the **Applications** folder on your Mac.
 
-![](/assets/installing-adobe-programs-mac.png)
-
-
+![](../.gitbook/assets/installing-adobe-programs-mac.png)
 
